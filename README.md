@@ -23,7 +23,7 @@ A beginner-friendly command-line Task Manager written in C. You can create tasks
 
 To compile and run the program, use:
 
-```bash
+```c
 gcc taskManager.c -o taskManager
 ./taskManager
 ```
